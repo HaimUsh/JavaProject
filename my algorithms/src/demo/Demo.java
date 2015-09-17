@@ -75,5 +75,6 @@ public class Demo {
 		System.out.print("ASter Euclidean algorithm has developed: ");
 		System.out.print(sEuc.getNumberOfNodesEvaluated());
 		System.out.println(" states.");
+		System.out.println("check1");
 	}
 }
