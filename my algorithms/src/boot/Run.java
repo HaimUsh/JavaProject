@@ -49,5 +49,7 @@ public class Run {
 		testMazeGenerator(new SimpleMaze3DGenerator());
 		System.out.println("recursive backtracker generator:");
 		testMazeGenerator(new MyMaze3DGenerator());
+		System.out.println("haim ze haiav laavod");
 		}
-	}
+		
+}
